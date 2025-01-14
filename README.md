@@ -1,5 +1,6 @@
 # GitHub Docs <!-- omit in toc -->
-[![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)
+[![Build GitHub Docs On Codespaces](https://github.com/codespaces/bad![1000015365](https://github.com/user-attachments/assets/4465815b-74ac-4489-8686-444a3179910d)
+ge.svg)](https://github.com/codespaces/new/?repo=github)
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
 
